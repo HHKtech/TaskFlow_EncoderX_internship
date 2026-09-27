@@ -214,7 +214,7 @@ Tasks
 
 Collection file:
 
-[Download Postman Collection](./docs/TaskFlow_EncoderX_Internship.postman_collection.json)
+[Download Postman Collection](./docs/TaskFlow_EncoderX_Internship.postman_collection)
 
 All listed endpoints were tested against the deployed application.
 
