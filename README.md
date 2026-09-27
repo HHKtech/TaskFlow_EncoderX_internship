@@ -179,7 +179,6 @@ The database contains two main models:
 * **Task**
 
 Relationship:
-
 ```text
 User (1) ──────────── (*) Task
 ```
@@ -188,7 +187,9 @@ Each task belongs to one user, while a user can have multiple tasks.
 
 The complete database schema diagram is available here:
 
-`docs/database-schema.png`
+### Database Schema Diagram
+
+![TaskFlow Database Schema](./docs/database-schema.png)
 
 ---
 
@@ -213,7 +214,7 @@ Tasks
 
 Collection file:
 
-`docs/TaskFlow_EncoderX_Internship.postman_collection.json`
+[Download Postman Collection](./docs/TaskFlow_EncoderX_Internship.postman_collection.json)
 
 All listed endpoints were tested against the deployed application.
 
