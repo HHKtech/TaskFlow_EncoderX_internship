@@ -189,7 +189,7 @@ The complete database schema diagram is available here:
 
 ### Database Schema Diagram
 
-![TaskFlow Database Schema](./docs/database-schema.png)
+![TaskFlow Database Schema](./docs/database-schema.jpg)
 
 ---
 
